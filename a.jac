@@ -1,1 +1,1 @@
-glob y: int = 8;
+glob z: int = 8;
