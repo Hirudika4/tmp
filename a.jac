@@ -1,1 +1,1 @@
-glob x: int = 3;
+glob y: int = 3;
